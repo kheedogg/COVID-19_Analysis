@@ -1,5 +1,5 @@
-## COVID-19_Analysis
-# COVID-19 Visualizations, Predictions, Forecasting
+# COVID-19_Analysis
+### COVID-19 Visualizations, Predictions, Forecasting
 
 Limited rendering only, external view available with nbviewer. 
 
